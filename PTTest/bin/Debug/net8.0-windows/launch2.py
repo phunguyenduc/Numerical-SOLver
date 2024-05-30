@@ -52,7 +52,7 @@ if img is None:
 
 # Detect objects in the image
 <<<<<<< HEAD
-results = model(source=img, iou=0, save=True, conf=0.4, save_txt = True)
+results = model(source=img, iou=0, conf=0.4)
 =======
 results = model(source=img, iou=0, conf=0.4)
 >>>>>>> 10b2366 (fix some bugs)
