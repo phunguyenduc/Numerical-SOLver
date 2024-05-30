@@ -1,0 +1,69 @@
+C:\Users\son50\source\repos\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.exe
+C:\Users\son50\source\repos\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.deps.json
+C:\Users\son50\source\repos\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.runtimeconfig.json
+C:\Users\son50\source\repos\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.dll
+C:\Users\son50\source\repos\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.pdb
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form1.resources
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.GenerateResource.cache
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.AssemblyInfoInputs.cache
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.AssemblyInfo.cs
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.CoreCompileInputs.cache
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.dll
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\refint\PTTest.dll
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.pdb
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.genruntimeconfig.cache
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\ref\PTTest.dll
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Properties.Resources.resources
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.GaussForm.resources
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.JacobiForm.resources
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form4.resources
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form5.resources
+C:\Users\son50\source\repos\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form6.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.exe
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.deps.json
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.runtimeconfig.json
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.dll
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.pdb
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form1.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form4.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form5.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form6.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.GaussForm.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.JacobiForm.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Properties.Resources.resources
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.GenerateResource.cache
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.AssemblyInfoInputs.cache
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.AssemblyInfo.cs
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.CoreCompileInputs.cache
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.dll
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\refint\PTTest.dll
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.pdb
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.genruntimeconfig.cache
+C:\Users\THANH TUNG\source\repos\LTUD\PTTest\PTTest\obj\Debug\net8.0-windows\ref\PTTest.dll
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.exe
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.deps.json
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.runtimeconfig.json
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.dll
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\bin\Debug\net8.0-windows\PTTest.pdb
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Form1.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.GaussForm.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.JacobiForm.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.Properties.Resources.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.GenerateResource.cache
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.AssemblyInfoInputs.cache
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.AssemblyInfo.cs
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.CoreCompileInputs.cache
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.dll
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\refint\PTTest.dll
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.pdb
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.genruntimeconfig.cache
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\ref\PTTest.dll
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.NewtonForm.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.RungeKuttaForm.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.SplineInterpolationForm.resources
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.AssemblyReference.cache
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\bin\Debug\net8.0-windows\NCalc.dll
+C:\Users\son50\Documents\Zalo Received Files\PTTest\PTTest\obj\Debug\net8.0-windows\PTTest.csproj.Up2Date

@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "E:\\Desktop\\PTTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|e:\\desktop\\pttest\\pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\jacobiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\jacobiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\gaussform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\gaussform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|E:\\Desktop\\PTTest\\pttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|c:\\users\\son50\\documents\\zalo received files\\pttest\\pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\gaussform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\jacobiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\jacobiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\jacobiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\rungekuttaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\splineinterpolationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\newtonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\gaussform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\gaussform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\pttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 10b2366 (fix some bugs)
+      "RelativeMoniker": "D:0:0:{267492BF-3A97-44ED-8102-9103D683D461}|PTTest\\PTTest.csproj|solutionrelative:pttest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\Form1.cs",
+              "RelativeDocumentMoniker": "PTTest\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\Form1.cs",
+              "RelativeToolTip": "PTTest\\Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwL0AAAA3AAAA",
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\Form1.cs",
+              "RelativeDocumentMoniker": "PTTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\Form1.cs",
+              "RelativeToolTip": "PTTest\\Form1.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAqwHAAAAA5AAAA",
+>>>>>>> 10b2366 (fix some bugs)
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:51:30.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "JacobiForm.cs [Design]",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\JacobiForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\JacobiForm.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\JacobiForm.cs [Design]",
+              "RelativeToolTip": "PTTest\\JacobiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:16:35.596Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\Form1.cs",
+              "RelativeDocumentMoniker": "PTTest\\Form1.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\Form1.cs [Design]",
+              "RelativeToolTip": "PTTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:13:14.356Z",
+=======
+              "DocumentIndex": 7,
+              "Title": "JacobiForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\JacobiForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\JacobiForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\JacobiForm.cs [Design]",
+              "RelativeToolTip": "PTTest\\JacobiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:16:35.596Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JacobiForm.cs",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\JacobiForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\JacobiForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\JacobiForm.cs",
+              "RelativeToolTip": "PTTest\\JacobiForm.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAAAGYBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:45:15.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GaussForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\GaussForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.cs [Design]",
+              "RelativeToolTip": "PTTest\\GaussForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:23:21.956Z",
+>>>>>>> 10b2366 (fix some bugs)
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "JacobiForm.cs",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\JacobiForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\JacobiForm.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\JacobiForm.cs",
+              "RelativeToolTip": "PTTest\\JacobiForm.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:45:15.2Z",
+              "EditorCaption": ""
+=======
+              "Title": "RungeKuttaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\RungeKuttaForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\RungeKuttaForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\RungeKuttaForm.cs [Design]",
+              "RelativeToolTip": "PTTest\\RungeKuttaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:04:11.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewtonForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\NewtonForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\NewtonForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\NewtonForm.cs [Design]",
+              "RelativeToolTip": "PTTest\\NewtonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:07:28.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\Form1.cs",
+              "RelativeDocumentMoniker": "PTTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\Form1.cs [Design]",
+              "RelativeToolTip": "PTTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:43:40.969Z",
+              "EditorCaption": " [Design]"
+>>>>>>> 10b2366 (fix some bugs)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+<<<<<<< HEAD
+              "Title": "GaussForm.cs [Design]",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\GaussForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\GaussForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:23:21.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RungeKuttaForm.cs [Design]",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\RungeKuttaForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\RungeKuttaForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\RungeKuttaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:04:11.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewtonForm.cs [Design]",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\NewtonForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\NewtonForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\NewtonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:07:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GaussForm.cs",
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\GaussForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\GaussForm.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\GaussForm.cs",
+              "RelativeToolTip": "PTTest\\GaussForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:27:25.106Z"
+=======
+              "Title": "GaussForm.cs",
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\GaussForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.cs",
+              "RelativeToolTip": "PTTest\\GaussForm.cs",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAAAKYBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:27:25.106Z",
+              "EditorCaption": ""
+>>>>>>> 10b2366 (fix some bugs)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JacobiForm.Designer.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\JacobiForm.Designer.cs",
+              "RelativeDocumentMoniker": "PTTest\\JacobiForm.Designer.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\JacobiForm.Designer.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\JacobiForm.Designer.cs",
+              "RelativeDocumentMoniker": "PTTest\\JacobiForm.Designer.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\JacobiForm.Designer.cs",
+>>>>>>> 10b2366 (fix some bugs)
+              "RelativeToolTip": "PTTest\\JacobiForm.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:27:44.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RungeKuttaForm.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\RungeKuttaForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\RungeKuttaForm.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\RungeKuttaForm.cs",
+              "RelativeToolTip": "PTTest\\RungeKuttaForm.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAUwMsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:05:51.479Z"
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\RungeKuttaForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\RungeKuttaForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\RungeKuttaForm.cs",
+              "RelativeToolTip": "PTTest\\RungeKuttaForm.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAUwMsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:05:51.479Z",
+              "EditorCaption": ""
+>>>>>>> 10b2366 (fix some bugs)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SplineInterpolationForm.cs [Design]",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\SplineInterpolationForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\SplineInterpolationForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\SplineInterpolationForm.cs [Design]",
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\SplineInterpolationForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\SplineInterpolationForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\SplineInterpolationForm.cs [Design]",
+              "RelativeToolTip": "PTTest\\SplineInterpolationForm.cs [Design]",
+>>>>>>> 10b2366 (fix some bugs)
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:25:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SplineInterpolationForm.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\SplineInterpolationForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\SplineInterpolationForm.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\SplineInterpolationForm.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\SplineInterpolationForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\SplineInterpolationForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\SplineInterpolationForm.cs",
+>>>>>>> 10b2366 (fix some bugs)
+              "RelativeToolTip": "PTTest\\SplineInterpolationForm.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAqwOwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:28:06.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewtonForm.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\NewtonForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\NewtonForm.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\NewtonForm.cs",
+              "RelativeToolTip": "PTTest\\NewtonForm.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:07:57.539Z"
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\NewtonForm.cs",
+              "RelativeDocumentMoniker": "PTTest\\NewtonForm.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\NewtonForm.cs",
+              "RelativeToolTip": "PTTest\\NewtonForm.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:07:57.539Z",
+              "EditorCaption": ""
+>>>>>>> 10b2366 (fix some bugs)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GaussForm.Designer.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\GaussForm.Designer.cs",
+              "RelativeDocumentMoniker": "PTTest\\GaussForm.Designer.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\GaussForm.Designer.cs",
+              "RelativeToolTip": "PTTest\\GaussForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:29:20.979Z"
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.Designer.cs",
+              "RelativeDocumentMoniker": "PTTest\\GaussForm.Designer.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\GaussForm.Designer.cs",
+              "RelativeToolTip": "PTTest\\GaussForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:29:20.979Z",
+              "EditorCaption": ""
+>>>>>>> 10b2366 (fix some bugs)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "E:\\Desktop\\PTTest\\PTTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PTTest\\Form1.Designer.cs",
+              "ToolTip": "E:\\Desktop\\PTTest\\PTTest\\Form1.Designer.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PTTest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\son50\\Documents\\Zalo Received Files\\PTTest\\PTTest\\Form1.Designer.cs",
+>>>>>>> 10b2366 (fix some bugs)
+              "RelativeToolTip": "PTTest\\Form1.Designer.cs",
+              "ViewState": "AQIAAL8BAAAAAAAAAAAAAL8BAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:47:00.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
